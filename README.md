@@ -27,4 +27,4 @@ ______
 
 [APSSDC](https://apssdc.in)
 
-[SACET](https://sacet.ac.in)
+[SACET](http://sacet.ac.in)
