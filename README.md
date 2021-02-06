@@ -1,4 +1,8 @@
 # uma
+SACET
+========
+MCA Students
+----------
 # This is APSSDC GITHUB WORKSHOP
 ##  This is APSSDC GITHUB WORKSHOP
 ### This is APSSDC GITHUB WORKSHOP
@@ -46,3 +50,10 @@ How to initialize github project
 - [x] git init
 - [ ] git remote
 - [ ] git branch
+
+
+-------- python
+def add(a,b)
+   print("The addition of a and b is:")
+  add(2,1)
+  ------------
