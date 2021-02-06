@@ -43,5 +43,5 @@ Sno | Name | College |id
 How to initialize github project
 [] git add .
 [] git init
-[]git remote
-[]git branch
+[] git remote
+[] git branch
