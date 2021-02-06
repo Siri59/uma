@@ -39,3 +39,9 @@ Sno | Name | College |id
 
 :sleeping:
 :star:
+
+How to initialize github project
+[] git add .
+[] git init
+[]git remote
+[]git branch
